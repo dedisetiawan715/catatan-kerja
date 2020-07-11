@@ -1,3 +1,5 @@
 pengen ekah
 berbagi terhadap orang yang tidak mampu
 mengembangkan ilmu dan berbagi ilmu
+bahasa program
+framework
