@@ -2,6 +2,8 @@ pengen ekah
 berbagi terhadap orang yang tidak mampu
 mengembangkan ilmu dan berbagi ilmu
 bahasa program
+  - java script
+  - es6
 framework
   - belajar laravel
   - belajar react
