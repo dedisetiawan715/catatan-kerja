@@ -4,6 +4,7 @@ mengembangkan ilmu dan berbagi ilmu
 bahasa program
   - java script
   - es6
+  - es7
 framework
   - belajar laravel
   - belajar react
