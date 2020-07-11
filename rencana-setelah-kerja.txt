@@ -3,3 +3,6 @@ berbagi terhadap orang yang tidak mampu
 mengembangkan ilmu dan berbagi ilmu
 bahasa program
 framework
+  - belajar laravel
+  - belajar react
+  - belajar codeigniter 4
