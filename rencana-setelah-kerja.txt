@@ -9,3 +9,5 @@ framework
   - belajar react
   - belajar codeigniter 4
 frame work java script
+  - angular
+  - soket.io
